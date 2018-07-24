@@ -23,6 +23,7 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 - Toute faute de jeu peut être sanctionné, il suffit que quelqu'un signale la faute. Jouer une carte au mauvais moment, erreur de distribution, tout peut y passer
 - Lorsque quelqu'un semble malhonnête dans ses pratiques, on peut l'accuser de "tentative d'embrouille". L'assemblée se réunit (ensemble des joueurs autres que l'accusé) pour décider de la validité de l'accusation. La peine générale est -1 mais peut être exceptionnellement plus importante en cas d'infraction grave (comme filmer avec son téléphone dans le mauvais sens)
 - A chaque phase de jeu (à l'exception de celle avec la carte sur le front), on découvre les *5-n* cartes du dessus du paquet (avec *n* le nombre de cartes dans la main) 
+- Après la phase d'annonces, chaque joueur peut choisir de **Poulper** (sans devoir respecter l'ordre de jeu). Le cas échéant, les gains ou pertes du joueur à l'issue du tour sont *doublés*
 
 ## En cours de consensus
 - On laisse tomber l'avant dernière phase de jeu (une seule carte dans la main, chacun regarde son jeu), car elle est jugée trop contrainte, peu intéressante
@@ -41,9 +42,15 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
 ## Nomenclature des événements de jeu
 
-### Fautes de jeu
+### Fautes de jeu (Aussi appelée **Une JB** )
 
-- **La JB** : Le joueur 
+#### Le joueur effectue une action au mauvais moment, ce n'est pas son tour: 
+- Commence à distribuer
+- Faire son annonce 
+- Poser sa carte
+
+#### Le joueur échoue dans la tâche qui lui incombe en tant que distributeur 
+- 
 
 
 ### Réussites, échecs et fourberies
