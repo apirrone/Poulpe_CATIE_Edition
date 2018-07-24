@@ -29,7 +29,8 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
 
 ## Propositions 
-- Au début d'une session de jeu, il faut déterminer 
+- Au début d'une session de jeu, il faut déterminer qui commence à distribuer : 
+  - Antoine : (simple) Chacun tire une carte et le joueur ayant la plus grande/petite commence à distribuer
 
 
 
@@ -42,7 +43,7 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
 ### Fautes de jeu
 
-- **La JB** : Le joueur effectue un mouvement particulièrement mauvais de manière malencontreuse 
+- **La JB** : Le joueur 
 
 
 ### Réussites, échecs et fourberies
@@ -53,4 +54,6 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
 - **La Perfide Julien** : Le joueur fait croire aux autres qu'il possède l'excuse par de viles méthodes de persuasion
 
+- **L'incrédule Rémi** : Le joueur commence à exprimer sa rage car il pense avoir perdu, alors que non, en fait.
 
+- **La JB** : Le joueur effectue un mouvement particulièrement mauvais de manière malencontreuse 
