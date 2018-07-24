@@ -22,14 +22,14 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 - Lorsque l'excuse apparaît dans les cartes dévoilés, le premier joueur à dire "la pire des cartes" doit l'échanger contre l'une de ses cartes, il est obligé de la jouer comme la pire carte. "Premier joueur" signifie premier à avoir commencé la phrase à condition de l'ennoncer correctement
 - Toute faute de jeu peut être sanctionné, il suffit que quelqu'un signale la faute. Jouer une carte au mauvais moment, erreur de distribution, tout peut y passer
 - Lorsque quelqu'un semble malhonnête dans ses pratiques, on peut l'accuser de "tentative d'embrouille". L'assemblée se réunit (ensemble des joueurs autres que l'accusé) pour décider de la validité de l'accusation. La peine générale est -1 mais peut être exceptionnellement plus importante en cas d'infraction grave (comme filmer avec son téléphone dans le mauvais sens)
-
+- A chaque phase de jeu (à l'exception de celle avec la carte sur le front), on découvre les *5-n* cartes du dessus du paquet (avec *n* le nombre de cartes dans la main) 
 
 ## En cours de consensus
 - On laisse tomber l'avant dernière phase de jeu (une seule carte dans la main, chacun regarde son jeu), car elle est jugée trop contrainte, peu intéressante
 
 
 ## Propositions 
-
+- Au début d'une session de jeu, il faut déterminer 
 
 
 
