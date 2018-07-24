@@ -27,10 +27,10 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
 #### Réussites, échecs et fourberies
 
-- La Royale Olivier : 
+- La Royale Olivier : Le joueur est le seul à gagner
 
-- La Lamentable Antoine :
+- La Lamentable Antoine : Le joueur est le seul à perdre
 
-- La Perfide Julien : 
+- La Perfide Julien : Le joueur fait croire aux autres qu'il possède l'excuse par de viles méthodes de persuasion
 
 
