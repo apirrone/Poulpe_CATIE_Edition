@@ -50,7 +50,10 @@ https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 - Poser sa carte
 
 #### Le joueur échoue dans la tâche qui lui incombe en tant que distributeur 
-- 
+- Distribuer le mauvais nombre de cartes
+- Retourner le mauvais nombre de cartes 
+- Accidentellement révéler une carte d'un joueur
+
 
 
 ### Réussites, échecs et fourberies
