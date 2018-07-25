@@ -12,6 +12,11 @@ https://keepthescore.co/game/R39fdlV4u4GxspCJxEWhBoSze
 ### Antoine, Remi, Clément, Julien
 https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
 
+### Antoine, Remi, Clément, Théodore
+https://keepthescore.co/game/H3KvUfnb6Cgt4Arzexx6WnBKe
+
+### Antoine, Remi, Clément (première partie à 3)
+https://keepthescore.co/game/VcxL74aUNKfdVbA2krVYh5PPe
 # Règles
 
 
