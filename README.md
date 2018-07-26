@@ -24,7 +24,7 @@ https://keepthescore.co/game/VcxL74aUNKfdVbA2krVYh5PPe
 ## Consensus
 
 - Interdiction de jouer l'excuse au dernier pli (-2)
-- Lorsque **l'excuse** apparaît dans les cartes dévoilés, le premier joueur à dire "la pire des cartes" doit l'échanger contre l'une de ses cartes, il est obligé de la jouer comme la pire carte. "Premier joueur" signifie premier à avoir commencé la phrase à condition de l'ennoncer correctement
+- Lorsque **l'excuse** apparaît dans les cartes dévoilés (à l'exception de lors de la dernière phase de jeu), le premier joueur à dire "la pire des cartes" doit l'échanger contre l'une de ses cartes, il est obligé de la jouer comme la pire carte. "Premier joueur" signifie premier à avoir commencé la phrase à condition de l'ennoncer correctement
 - Toute faute de jeu peut être sanctionné, il suffit que quelqu'un signale la faute. Jouer une carte au mauvais moment, erreur de distribution, tout peut y passer
 - Lorsque quelqu'un semble malhonnête dans ses pratiques, on peut l'accuser de **tentative d'embrouille**. L'assemblée se réunit pour décider de la validité de l'accusation. La peine générale est -1 mais peut être exceptionnellement plus importante en cas d'infraction grave (comme filmer avec son téléphone dans le mauvais sens)
 - **L'assemblée** est constituée de tous les joueurs présents au sens large, les personnes faisant partie du tournoi global et assistant à la partie font automatiquement partie de l'assemblée, à l'excéption de l'accusé pour lequel l'assemblée est convoquée.
