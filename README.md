@@ -25,6 +25,7 @@ https://keepthescore.co/game/7L1sN5PM5Gz-KTrl-AUrXxYVe
 
 
 
+
 ## Consensus
 
 - Interdiction de jouer l'excuse au dernier pli (-2)
