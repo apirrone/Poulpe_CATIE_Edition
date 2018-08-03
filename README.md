@@ -24,6 +24,9 @@ https://keepthescore.co/game/7L1sN5PM5Gz-KTrl-AUrXxYVe
 ### Antoine, Remi, JB, Aurore, Bruno
 https://keepthescore.co/game/17mw41JUib7ug6XhQF5qV4tre
 
+### Antoine, Remi, Jb, Bruno, Olivier, Pierre-Marie
+https://keepthescore.co/game/zqGqrtSWlKaeyoFvvKQmj8Rhe
+
 # Règles
 
 
