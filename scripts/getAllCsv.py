@@ -3,7 +3,7 @@
 import re
 import os
 
-file="../README.md"
+file="../scores.md"
 with open(file) as f:
     lines = f.readlines()
     links = []
