@@ -2,7 +2,19 @@
 
 import re
 import os
+import sys
 
+# Handle custom output directory
+if(len(sys.argv) > 1):
+    outDir = sys.argv[1]
+else:
+    outDir = 'csv' # No directory specified, default is './csv/'
+
+
+# Remove trailing '/'
+while(outDir[-1] == '/'):
+    outDir = outDir[:-1]
+    
 file="../scores.md"
 with open(file) as f:
     lines = f.readlines()
@@ -12,7 +24,6 @@ with open(file) as f:
         if(link):
             links.append(link)
 
-    outDir = 'csv/'
     if not os.path.exists(outDir):
         os.makedirs(outDir)
             
@@ -20,7 +31,7 @@ with open(file) as f:
         string = str(l)[2:][:-2]
         downloadLink = string+'/download'
         print(downloadLink)
-        os.system('wget -P '+outDir+' '+downloadLink)
+        os.system('wget -P '+outDir+'/ '+downloadLink)
         
         
 
