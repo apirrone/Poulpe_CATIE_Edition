@@ -8,7 +8,7 @@ with open(file) as f:
     lines = f.readlines()
     links = []
     for l in lines:
-        link = re.findall(r'.*https.*', l)
+        link = re.findall(r'.*https://keepthescore\.co.*', l)
         if(link):
             links.append(link)
 
