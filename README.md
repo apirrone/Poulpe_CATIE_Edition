@@ -21,6 +21,12 @@ https://keepthescore.co/game/VcxL74aUNKfdVbA2krVYh5PPe
 ### Antoine, Rémi, JB
 https://keepthescore.co/game/7L1sN5PM5Gz-KTrl-AUrXxYVe
 
+### Antoine, Remi, Bruno, Julien
+https://keepthescore.co/game/xM0nfuXBzZosZIVzIk_ONhexe
+
+### Antoine, Remi, Bruno, Julien, Sébastien
+https://keepthescore.co/game/3IPf4Y9E1vBBVzMwy4WWzJbie
+
 # Règles
 
 
@@ -34,15 +40,17 @@ https://keepthescore.co/game/7L1sN5PM5Gz-KTrl-AUrXxYVe
 - Lorsque quelqu'un semble malhonnête dans ses pratiques, on peut l'accuser de **tentative d'embrouille**. L'assemblée se réunit pour décider de la validité de l'accusation. La peine générale est -1 mais peut être exceptionnellement plus importante en cas d'infraction grave (comme filmer avec son téléphone dans le mauvais sens)
 - **L'assemblée** est constituée de tous les joueurs présents au sens large, les personnes faisant partie du tournoi global et assistant à la partie font automatiquement partie de l'assemblée, à l'excéption de l'accusé pour lequel l'assemblée est convoquée.
 - A chaque phase de jeu, on découvre les *5-n* cartes du dessus du paquet (avec *n* le nombre de cartes dans la main), sauf à la dernière phase de jeu (carte sur le front), ou un découvre 2 cartes. --> L'idée est qu'à tout moment, on a l'information de 5 cartes pour prendre notre décision
-- Après la phase d'annonces, chaque joueur peut choisir de **Poulper** (sans devoir respecter l'ordre de jeu). Le cas échéant, les gains ou pertes du joueur à l'issue du tour sont *doublés*
+- Après la phase d'annonces, chaque joueur peut choisir de **Poulper** (Ordre défini ci-dessous). Le cas échéant, les gains ou pertes du joueur à l'issue du tour sont *doublés*
+- L'ordre de **Poulpage** : Le tour de poulpage se déroule juste après le tour d'anonces, et dans le sens contraire. Le premier joueur à poulper est le joueur se trouvant juste avant la dernière personne à avoir annoncé. Une fois le tour de poulpage terminé, le sens et l'ordre initiaux sont rétablis.
 - Pour déterminer qui commence à distribuer au tout début d'une partie : on distribue une carte par joueur, le joueur ayant la plus *petite* carte commence à distribuer 
 
 ## En cours de consensus
-- Seuls deux joueurs peuvent **Poulper** par tour
-  - Les deux premiers joueurs à signaler qu'ils poulpent *après* que le dernier joueur ait fait son annonce seront considérés comme poulpeurs
+
+- 
 
 ## Propositions 
 
+- 
 
 
 
@@ -77,3 +85,5 @@ https://keepthescore.co/game/7L1sN5PM5Gz-KTrl-AUrXxYVe
 - **L'incrédule Rémi** : Le joueur commence à exprimer sa rage car il pense avoir perdu, alors que non, en fait.
 
 - **La JB** : Le joueur effectue un mouvement particulièrement mauvais de manière malencontreuse 
+
+- **L'Optimale JB** : Le joueur gagne tous les tours d'une partie, en les poulpants tous. Il gagne ainsi le maximum de points possible par partie : 10
