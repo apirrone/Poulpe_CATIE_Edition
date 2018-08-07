@@ -14,7 +14,6 @@
 	<div id="layout">
 	    
 	    <?php include("menu.php"); ?>
-	    
 	    <div id="main">
 		<div class="header">
 		    <img class="pure-img-responsive-header" src="assets/poulpe.png" alt="Poulpe">
