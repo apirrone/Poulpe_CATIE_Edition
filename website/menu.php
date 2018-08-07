@@ -2,11 +2,6 @@
 include("db.php");
 
 $players = getPlayers();
-/* echo $players[0][1];*/
-/* foreach($players as $a){
- *     echo $a[1];
- *     echo " ";
- * }*/
 
 echo '<script src="js/jquery-2.1.4.min.js"></script>';
 echo '<!-- Menu toggle -->';
