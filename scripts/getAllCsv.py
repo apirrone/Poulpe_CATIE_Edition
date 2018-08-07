@@ -5,37 +5,31 @@ import os
 import sys
 
 # Handle custom output directory
-if(len(sys.argv) > 1):
+if len(sys.argv) > 1:
     outDir = sys.argv[1]
 else:
-    outDir = 'csv' # No directory specified, default is './csv/'
+    outDir = "csv"  # No directory specified, default is './csv/'
 
 
 # Remove trailing '/'
-while(outDir[-1] == '/'):
+while outDir[-1] == "/":
     outDir = outDir[:-1]
-    
-file="../scores.md"
+
+file = "../scores.md"
 with open(file) as f:
     lines = f.readlines()
     links = []
     for l in lines:
-        link = re.findall(r'.*https://keepthescore\.co.*', l)
-        if(link):
+        link = re.findall(r".*https://keepthescore\.co.*", l)
+        if link:
             links.append(link)
 
     if not os.path.exists(outDir):
         os.makedirs(outDir)
-            
+    index = 0
     for l in links:
         string = str(l)[2:][:-2]
-        downloadLink = string+'/download'
+        downloadLink = string + "/download"
         print(downloadLink)
-        os.system('wget -P '+outDir+'/ '+downloadLink)
-        
-        
+        os.system("wget -P " + outDir + "/ " + downloadLink)
 
-    
-
-    
-        
