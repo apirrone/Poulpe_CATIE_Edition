@@ -7,46 +7,29 @@
 	<title>Responsive Side Menu &ndash; Layout Examples &ndash; Pure</title>
 	
 	<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-" crossorigin="anonymous">
-        <link rel="stylesheet" href="website/css/layouts/side-menu.css">	
+        <link rel="stylesheet" href="css/layouts/side-menu.css">	
     </head>
     
     <body>
 	<div id="layout">
-	    <!-- Menu toggle -->
-	    <a href="#menu" id="menuLink" class="menu-link">
-		<!-- Hamburger icon -->
-		<span></span>
-	    </a>
-
-	    <div id="menu">
-		<div class="pure-menu">
-		    <a class="pure-menu-heading" href="#">Poulpe@CATIE</a>
-
-		    <ul class="pure-menu-list">
-			<li class="pure-menu-item"><a href="#" class="pure-menu-link">Poulpe</a></li>
-			<li class="pure-menu-item"><a href="#" class="pure-menu-link">About</a></li>
-
-			<li class="pure-menu-item menu-item-divided pure-menu-selected">
-			    <a href="#" class="pure-menu-link">Services</a>
-			</li>
-
-			<li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact</a></li>
-		    </ul>
-		</div>
-	    </div>
-
+	    
+	    <?php include("menu.php"); ?>
+	    
 	    <div id="main">
 		<div class="header">
-		    <h1>Page Title</h1>
-		    <h2>A subtitle for your page goes here</h2>
+		    <img class="pure-img-responsive-header" src="assets/poulpe.png" alt="Poulpe">
+		    <h1>Poulpe@CATIE</h1>
+		    <h2>Un site pour les gouverner tous</h2>
 		</div>
 
 		<div class="content">
-		    <h2 class="content-subhead">How to use this layout</h2>
+		    <h2 class="content-subhead">Le poulpe, plus qu'un jeu</h2>
 		    <p>
-			To use this layout, you can just copy paste the HTML, along with the CSS in <a href="website/css/layouts/side-menu.css" alt="Side Menu CSS">side-menu.css</a>, and the JavaScript in <a href="website/js/ui.js">ui.js</a>. The JS file uses vanilla JavaScript to simply toggle an <code>active</code> class that makes the menu responsive.
+			La légende raconte qu'un soir de pleine lune, blablabla TODO
 		    </p>
 
+
+		    
 		    <h2 class="content-subhead">Now Let's Speak Some Latin</h2>
 		    <p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -78,7 +61,7 @@
 
 
 
-	<script src="website/js/ui.js"></script>
+	<script src="js/ui.js"></script>
 
     </body>
 </html>
