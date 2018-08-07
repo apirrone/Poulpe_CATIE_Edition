@@ -32,3 +32,6 @@ https://keepthescore.co/game/xM0nfuXBzZosZIVzIk_ONhexe
 
 ### Antoine, Remi, Bruno, Julien, Sébastien
 https://keepthescore.co/game/3IPf4Y9E1vBBVzMwy4WWzJbie
+
+### Antoine, Remi, Clement, Bruno, Olivier, Aurore
+https://keepthescore.co/game/Bskpga8hUzKwU0-WvVjOMnNJe
