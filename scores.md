@@ -10,7 +10,7 @@ https://keepthescore.co/game/rM-pXhNgbTEpkTH80q_EIDRke
 https://keepthescore.co/game/R39fdlV4u4GxspCJxEWhBoSze
 
 ### Antoine, Remi, Clément, Julien
-https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe*
+https://keepthescore.co/game/yysxPHQz7xQEfHmyr008u_OFe
 
 ### Antoine, Remi, Clément, Théodore
 https://keepthescore.co/game/H3KvUfnb6Cgt4Arzexx6WnBKe
