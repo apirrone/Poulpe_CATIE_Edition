@@ -41,3 +41,9 @@ https://keepthescore.co/game/5rSOwLiIpI8QuQhYHuUeDtRJe
 
 ### Antoine, Remi, Olivier, Aurore
 https://keepthescore.co/game/glCWbDoFp0pj9Z3TvSxbG5eoe
+
+### Antoine, Remi, Aurore, Amanda
+https://keepthescore.co/game/dZ7lqJWEvGOi8-d5WZCW6Hyfe
+
+### Antoine, Remi, Amanda, JulienA
+https://keepthescore.co/game/VD7xcClUErEHHxoQUgSI-csye
