@@ -47,3 +47,6 @@ https://keepthescore.co/game/dZ7lqJWEvGOi8-d5WZCW6Hyfe
 
 ### Antoine, Remi, Amanda, JulienA
 https://keepthescore.co/game/VD7xcClUErEHHxoQUgSI-csye
+
+### Antoine, Remi, Jb, Amanda, Romain, Boris, Ludwig
+https://keepthescore.co/game/FbXW4oS-7NJC4dCiVxrsf-CSe
