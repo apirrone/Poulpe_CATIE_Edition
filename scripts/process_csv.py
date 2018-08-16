@@ -98,11 +98,11 @@ def main(path, verbose=False):
         players.values(), key=operator.attrgetter("avg"), reverse=True
     )
 
-    header = ["Rank", "Name", "Number of games", "Scores", "Average score"]
+    header = ["Rank", "Name", "Number of games", "Average score", "Scores"]
     lines = []
     i = 1
     for p in sorted_players:
-        lines.append([i, p.name, len(p.scores), p.scores, p.avg])
+        lines.append([i, p.name, len(p.scores), p.avg, p.scores])
         i += 1
         
     print("\n" + tabulate(lines, headers=header, tablefmt="grid"))
